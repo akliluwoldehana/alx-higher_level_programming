@@ -1,1 +1,1 @@
-**This is ALX high level programing repo**
+**This is ALX high level programming repo**
